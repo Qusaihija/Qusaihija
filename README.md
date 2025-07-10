@@ -5,25 +5,25 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="55" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="55" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="55" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
 </div>
 
 ###
