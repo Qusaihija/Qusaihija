@@ -11,8 +11,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="50" alt="go logo"  />
