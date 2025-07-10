@@ -5,30 +5,30 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="55" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="55" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="55" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="55" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<div align="center" style="transform: translateX(-100px)">
+<div align="center">
 <a href="https://www.linkedin.com/in/qusai-abu-al-haija-037927288/" target="_blank">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
  </a>
